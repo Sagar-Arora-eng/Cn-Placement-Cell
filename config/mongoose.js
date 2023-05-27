@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 // const dotenv = require('.env');
 const DB =
   "mongodb+srv://sagararor403:zEt3B2erkoCSDTMK@cluster0.qwxtz9m.mongodb.net/?retryWrites=true&w=majority";
-
+// console.log("DB", DB);
 // dotenv.config({ path: 'config/.env' });
 
 //connecting mongoose with database
